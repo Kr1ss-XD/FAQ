@@ -163,7 +163,7 @@ Hier ist ein Video von Rechtsanwalt Christian Solmecke, der über das Thema rech
 
 Das Video Addon Lastship  wird über das  LASTSHIP Repository installiert 
 
-Dieses ist hier verfügbar: [Download](https://github.com/lastship/Lastship-Repo/raw/master/zips/repository.lastship/repository.lastship-1.0.0.zip)
+Dieses ist hier verfügbar: [Download](https://github.com/lastship/Lastship-Repo/raw/master/zips/repository.lastship/repository.lastship-1.0.1.zip)
 
 Forum: [Link](http://lastship.square7.ch/forum/forumdisplay.php?fid=28)
 
